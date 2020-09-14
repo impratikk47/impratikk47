@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi,This is my first github repository.
 
 <!--
 **impratikk47/impratikk47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
