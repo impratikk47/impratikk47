@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NodeJS, Front End development, AWS**
 
-- 🤝 I’m looking for help with **improving Dynamic programming problems**
+- 🤝 I’m looking for help with **improving Dynamic programming problem solving.**
 
 - 📝 I regularly write articles on [https://www.blogger.com/u/1/blog/posts/575012152759793693?pli=1](https://www.blogger.com/u/1/blog/posts/575012152759793693?pli=1)
 
