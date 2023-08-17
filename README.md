@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **pratikmore100@gmail.com**
 
-- ⚡ Fun fact **I want to enjoy the work which I do and want to enjoy, explore and make memories with everyone.**
+- ⚡ Fun fact **I want to enjoy the work which I do, explore people and places and makea load of memories with everyone.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
