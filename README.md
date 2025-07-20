@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/M_Pratikk47?t=JN1MfPNIEvGsrJv_r0w2Jg&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m_pratikk47" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/pratik-more-8may2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pratik-more-8may2000" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pratik-more-8may2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pratik-more-8may2000" height="30" width="40" /></a>
 <a href="https://kaggle.com/pratikmore100@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pratikmore100@gmail.com" height="30" width="40" /></a>
 <a href="https://fb.com/pratik more" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pratik more" height="30" width="40" /></a>
 <a href="https://instagram.com/pratikkk_47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratikkk_47" height="30" width="40" /></a>
