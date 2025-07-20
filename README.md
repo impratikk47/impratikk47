@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://twitter.com/m_pratikk47" target="blank"><img src="https://img.shields.io/twitter/follow/m_pratikk47?logo=twitter&style=for-the-badge" alt="m_pratikk47" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJS, Front End development, AWS**
+- 🌱 I’m currently learning **AWS, Power BI, Python Libraries and SQL**
 
-- 🤝 I’m looking for help with **improving Dynamic programming problem solving.**
+- 🤝 I’m looking for help with **improving Analytical skills and getting a decent Business Analytics/ Cloud Computing role.**
 
 - 📝 I regularly write articles on [https://www.blogger.com/u/1/blog/posts/575012152759793693?pli=1](https://www.blogger.com/u/1/blog/posts/575012152759793693?pli=1)
 
-- 💬 Ask me about **Data Structures, OOPS, Cpp**
+- 💬 Ask me about **WMS - Manhattan, Python, SQL, Power BI**
 
 - 📫 How to reach me **pratikmore100@gmail.com**
 
-- ⚡ Fun fact **I want to enjoy the work which I do, explore people and places and makea load of memories with everyone.**
+- ⚡ Fun fact **I want to enjoy the work which I do, explore people and places and make unlimited of memories with everyone.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
